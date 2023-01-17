@@ -1,0 +1,2 @@
+# Cyclistic-Bikeshare
+This is the final project in my Google Data Analytics Professional Certificate Course.  Here, I will be using R programming language for this analysis because of its potential benefits to reproducibility, transparency, easy statistical analysis tools and data visualizations.
